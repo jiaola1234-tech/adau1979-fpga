@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=C2 Pin=R120-1
+Removed Pin From Net: NetName=A1 Pin=R123-1
+Removed Member From Class: ClassName=DSP大板子 Member=R120
+Removed Member From Class: ClassName=DSP大板子 Member=R123
+Added Pin To Net: NetName=A1 Pin=R24-2
+Added Pin To Net: NetName=C2 Pin=R26-2
+Added Pin To Net: NetName=A1 Pin=R63-2
+Added Pin To Net: NetName=C2 Pin=R64-2
+Added Member To Class: ClassName=DSP大板子 Member=Component CON3

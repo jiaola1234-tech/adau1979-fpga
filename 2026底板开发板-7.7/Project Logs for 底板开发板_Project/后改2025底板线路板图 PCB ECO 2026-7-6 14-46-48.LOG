@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=C242 NewDesignator=C342
+Change Component Designator: OldDesignator=C243 NewDesignator=C343
+Change Component Designator: OldDesignator=C244 NewDesignator=C344
+Change Component Designator: OldDesignator=C245 NewDesignator=C345
+Change Component Designator: OldDesignator=C246 NewDesignator=C346
+Change Component Designator: OldDesignator=C247 NewDesignator=C347
+Change Component Designator: OldDesignator=C248 NewDesignator=C348
+Added Member To Class: ClassName=后改2025底板电路原理图 Member=Component C23 0.1uF
+Added Member To Class: ClassName=后改2025底板电路原理图 Member=Component C24 0.1uF
+Added Member To Class: ClassName=后改2025底板电路原理图 Member=Component C241 680uF
+Added Member To Class: ClassName=后改2025底板电路原理图 Member=Component C342 104
+Added Member To Class: ClassName=后改2025底板电路原理图 Member=Component C343 104
+Added Member To Class: ClassName=后改2025底板电路原理图 Member=Component C344 104
+Added Member To Class: ClassName=后改2025底板电路原理图 Member=Component R16 1K

@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=NetC78_2 Pin=SW2-2
+Removed Pin From Net: NetName=GND Pin=SW2-4
+Removed Pin From Net: NetName=GND Pin=SW3-2
+Removed Pin From Net: NetName=NetC80_2 Pin=SW4-2
+Removed Pin From Net: NetName=GND Pin=SW4-4
+Removed Pin From Net: NetName=NetC81_2 Pin=SW5-2
+Removed Pin From Net: NetName=GND Pin=SW5-4
+Removed Pin From Net: NetName=NetC82_2 Pin=SW6-2
+Removed Pin From Net: NetName=GND Pin=SW6-4
+Removed Pin From Net: NetName=NetC83_2 Pin=SW7-2
+Removed Pin From Net: NetName=GND Pin=SW7-4
+Removed Pin From Net: NetName=NetC84_2 Pin=SW8-2
+Removed Pin From Net: NetName=GND Pin=SW8-4
+Change Component Footprint: Designator=SW2 Old Footprint=TSW SMD-6*6*5 New Footprint=TSW SMD-6*6*4.3
+Change Component Footprint: Designator=SW3 Old Footprint=TSW SMD-6*6*5 New Footprint=TSW SMD-6*6*4.3
+Change Component Footprint: Designator=SW4 Old Footprint=TSW SMD-6*6*5 New Footprint=TSW SMD-6*6*4.3
+Change Component Footprint: Designator=SW5 Old Footprint=TSW SMD-6*6*5 New Footprint=TSW SMD-6*6*4.3
+Change Component Footprint: Designator=SW6 Old Footprint=TSW SMD-6*6*5 New Footprint=TSW SMD-6*6*4.3
+Change Component Footprint: Designator=SW7 Old Footprint=TSW SMD-6*6*5 New Footprint=TSW SMD-6*6*4.3
+Change Component Footprint: Designator=SW8 Old Footprint=TSW SMD-6*6*5 New Footprint=TSW SMD-6*6*4.3
+Change Component Comment : Designator=SW4 Old Comment=SW_PB_ESW New Comment=SW4
+Change component parameters: Designator = "SW2" ("SW2"); Footprint = "TSW SMD-6*6*5"; UniqueID = "\NYJKSVHZ" ("\NYJKSVHZ")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片6x6轻触开关"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW3" ("SW3"); Footprint = "TSW SMD-6*6*5"; UniqueID = "\AMOQOYKW" ("\AMOQOYKW")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片6x6轻触开关"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW4" ("SW4"); Footprint = "TSW SMD-6*6*5"; UniqueID = "\EPLKFHLD" ("\EPLKFHLD")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片6x6轻触开关"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW5" ("SW5"); Footprint = "TSW SMD-6*6*5"; UniqueID = "\SBWLVWTT" ("\SBWLVWTT")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片6x6轻触开关"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW6" ("SW6"); Footprint = "TSW SMD-6*6*5"; UniqueID = "\TBODGVMJ" ("\TBODGVMJ")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片6x6轻触开关"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW7" ("SW7"); Footprint = "TSW SMD-6*6*5"; UniqueID = "\IPQEZKFC" ("\IPQEZKFC")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片6x6轻触开关"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW8" ("SW8"); Footprint = "TSW SMD-6*6*5"; UniqueID = "\VDFREODN" ("\VDFREODN")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片6x6轻触开关"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SW2-2
+Added Pin To Net: NetName=NetC78_2 Pin=SW2-4
+Added Pin To Net: NetName=GND Pin=SW3-4
+Added Pin To Net: NetName=GND Pin=SW4-2
+Added Pin To Net: NetName=NetC80_2 Pin=SW4-4
+Added Pin To Net: NetName=GND Pin=SW5-2
+Added Pin To Net: NetName=NetC81_2 Pin=SW5-4
+Added Pin To Net: NetName=GND Pin=SW6-2
+Added Pin To Net: NetName=NetC82_2 Pin=SW6-4
+Added Pin To Net: NetName=GND Pin=SW7-2
+Added Pin To Net: NetName=NetC83_2 Pin=SW7-4
+Added Pin To Net: NetName=GND Pin=SW8-2
+Added Pin To Net: NetName=NetC84_2 Pin=SW8-4
+Added Pin To Net: NetName=NetSW3_2 Pin=SW3-2
+Added Pin To Net: NetName=NetSW3_2 Pin=SW3-3
+Added Pin To Net: NetName=NetSW3_2 Pin=U11-3
+Added Net: Name=NetSW3_2

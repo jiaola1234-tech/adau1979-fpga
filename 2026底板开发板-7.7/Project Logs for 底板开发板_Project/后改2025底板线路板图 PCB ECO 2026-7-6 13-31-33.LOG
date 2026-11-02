@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=485_DE Pin=J27-20
+Removed Pin From Net: NetName=485_TXD Pin=J27-22
+Removed Pin From Net: NetName=485_RXD Pin=J27-24
+Added Pin To Net: NetName=485_DE Pin=J27-24
+Added Pin To Net: NetName=485_TXD Pin=J27-26
+Added Pin To Net: NetName=485_RXD Pin=J27-28

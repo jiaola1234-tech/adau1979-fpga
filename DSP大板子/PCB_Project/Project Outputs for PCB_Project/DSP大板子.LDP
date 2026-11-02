@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\86384\Desktop\DSP大板子\DSP大板子.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=dsp大板子-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=dsp大板子-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl

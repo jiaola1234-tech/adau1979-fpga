@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PULSE_EXT_24V+ Pin=P1-1
+Removed Pin From Net: NetName=PULSE_OUT Pin=P1-3
+Added Pin To Net: NetName=PULSE_OUT Pin=P1-1
+Added Pin To Net: NetName=PULSE_EXT_24V+ Pin=P1-3

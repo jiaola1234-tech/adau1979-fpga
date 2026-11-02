@@ -1,0 +1,240 @@
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=OUT1_P Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=OUT2_P Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C20-1
+Removed Pin From Net: NetName=OUT3_P Pin=C25-1
+Removed Pin From Net: NetName=GND Pin=C33-1
+Removed Pin From Net: NetName=OUT4_P Pin=C37-1
+Removed Pin From Net: NetName=GND Pin=C41-1
+Removed Pin From Net: NetName=OUT5_P Pin=C44-1
+Removed Pin From Net: NetName=GND Pin=C47-1
+Removed Pin From Net: NetName=OUT6_P Pin=C48-1
+Removed Pin From Net: NetName=GND Pin=C53-1
+Removed Pin From Net: NetName=OUT7_P Pin=C59-1
+Removed Pin From Net: NetName=GND Pin=C67-1
+Removed Pin From Net: NetName=OUT8_P Pin=C70-1
+Removed Pin From Net: NetName=GND Pin=R149-1
+Removed Pin From Net: NetName=GND Pin=R151-1
+Removed Pin From Net: NetName=GND Pin=R154-1
+Removed Pin From Net: NetName=GND Pin=R156-1
+Removed Pin From Net: NetName=GND Pin=R159-1
+Removed Pin From Net: NetName=GND Pin=R161-1
+Removed Pin From Net: NetName=GND Pin=R162-1
+Removed Pin From Net: NetName=GND Pin=R164-1
+Removed Pin From Net: NetName=GND Pin=R165-1
+Removed Pin From Net: NetName=GND Pin=R167-1
+Removed Pin From Net: NetName=GND Pin=R169-1
+Removed Pin From Net: NetName=GND Pin=R171-1
+Removed Pin From Net: NetName=GND Pin=R173-1
+Removed Pin From Net: NetName=GND Pin=R175-1
+Removed Pin From Net: NetName=GND Pin=R177-1
+Removed Pin From Net: NetName=GND Pin=R179-1
+Removed Pin From Net: NetName=GND Pin=R181-1
+Removed Pin From Net: NetName=GND Pin=R183-1
+Removed Pin From Net: NetName=GND Pin=R185-1
+Removed Pin From Net: NetName=GND Pin=R187-1
+Removed Pin From Net: NetName=GND Pin=R189-1
+Removed Pin From Net: NetName=GND Pin=R191-1
+Removed Pin From Net: NetName=GND Pin=R193-1
+Removed Pin From Net: NetName=GND Pin=R196-1
+Removed Pin From Net: NetName=GND Pin=R198-1
+Removed Pin From Net: NetName=GND Pin=R201-1
+Removed Pin From Net: NetName=GND Pin=R203-1
+Removed Pin From Net: NetName=GND Pin=R205-1
+Removed Pin From Net: NetName=GND Pin=R207-1
+Removed Pin From Net: NetName=GND Pin=R209-1
+Removed Pin From Net: NetName=GND Pin=R211-1
+Removed Pin From Net: NetName=GND Pin=R213-1
+Removed Pin From Net: NetName=GND Pin=R215-1
+Removed Pin From Net: NetName=GND Pin=R217-1
+Removed Pin From Net: NetName=GND Pin=R219-1
+Removed Pin From Net: NetName=GND Pin=R221-1
+Removed Pin From Net: NetName=GND Pin=R223-1
+Removed Pin From Net: NetName=GND Pin=R225-1
+Removed Pin From Net: NetName=GND Pin=R227-1
+Removed Pin From Net: NetName=GND Pin=R230-1
+Removed Pin From Net: NetName=GND Pin=R258-1
+Removed Pin From Net: NetName=GND Pin=R263-1
+Removed Pin From Net: NetName=GND Pin=R265-1
+Removed Pin From Net: NetName=GND Pin=R266-1
+Removed Pin From Net: NetName=GND Pin=R267-1
+Removed Pin From Net: NetName=GND Pin=R268-1
+Removed Pin From Net: NetName=GND Pin=R269-1
+Removed Pin From Net: NetName=GND Pin=R270-1
+Removed Member From Class: ClassName=DSP大板子 Member=C3
+Removed Member From Class: ClassName=DSP大板子 Member=C6
+Removed Member From Class: ClassName=DSP大板子 Member=C12
+Removed Member From Class: ClassName=DSP大板子 Member=C15
+Removed Member From Class: ClassName=DSP大板子 Member=C20
+Removed Member From Class: ClassName=DSP大板子 Member=C25
+Removed Member From Class: ClassName=DSP大板子 Member=C33
+Removed Member From Class: ClassName=DSP大板子 Member=C37
+Removed Member From Class: ClassName=DSP大板子 Member=C41
+Removed Member From Class: ClassName=DSP大板子 Member=C44
+Removed Member From Class: ClassName=DSP大板子 Member=C47
+Removed Member From Class: ClassName=DSP大板子 Member=C48
+Removed Member From Class: ClassName=DSP大板子 Member=C53
+Removed Member From Class: ClassName=DSP大板子 Member=C59
+Removed Member From Class: ClassName=DSP大板子 Member=C67
+Removed Member From Class: ClassName=DSP大板子 Member=C70
+Change Component Comment : Designator=R149 Old Comment=0Ω/DNP New Comment=0Ω
+Change Component Comment : Designator=R151 Old Comment=0Ω/DNP New Comment=0Ω
+Change Component Comment : Designator=R154 Old Comment=0Ω/DNP New Comment=0Ω
+Change Component Comment : Designator=R156 Old Comment=0Ω/DNP New Comment=0Ω
+Change Component Comment : Designator=R159 Old Comment=0Ω/DNP New Comment=0Ω
+Change Component Comment : Designator=R161 Old Comment=0Ω/DNP New Comment=0Ω
+Change Component Comment : Designator=R162 Old Comment=0Ω/DNP New Comment=0Ω
+Change Component Comment : Designator=R164 Old Comment=0Ω/DNP New Comment=0Ω
+Change Component Comment : Designator=C7 Old Comment=2.2nf New Comment=DNP
+Change Component Comment : Designator=C16 Old Comment=2.2nf New Comment=DNP
+Change Component Comment : Designator=C26 Old Comment=2.2nf New Comment=DNP
+Change Component Comment : Designator=C38 Old Comment=2.2nf New Comment=DNP
+Change Component Comment : Designator=C45 Old Comment=2.2nf New Comment=DNP
+Change Component Comment : Designator=C49 Old Comment=2.2nf New Comment=DNP
+Change Component Comment : Designator=C60 Old Comment=2.2nf New Comment=DNP
+Change Component Comment : Designator=C71 Old Comment=2.2nf New Comment=DNP
+Change Component Comment : Designator=R8 Old Comment=100Ω New Comment=2.2KΩ
+Change Component Comment : Designator=R13 Old Comment=100Ω New Comment=2.2KΩ
+Change Component Comment : Designator=R25 Old Comment=100Ω New Comment=2.2KΩ
+Change Component Comment : Designator=R29 Old Comment=100Ω New Comment=2.2KΩ
+Change Component Comment : Designator=R39 Old Comment=100Ω New Comment=2.2KΩ
+Change Component Comment : Designator=R43 Old Comment=100Ω New Comment=2.2KΩ
+Change Component Comment : Designator=R48 Old Comment=100Ω New Comment=2.2KΩ
+Change Component Comment : Designator=R52 Old Comment=100Ω New Comment=2.2KΩ
+Change Component Comment : Designator=R57 Old Comment=100Ω New Comment=2.2KΩ
+Change Component Comment : Designator=R60 Old Comment=100Ω New Comment=2.2KΩ
+Change Component Comment : Designator=R67 Old Comment=100Ω New Comment=2.2KΩ
+Change Component Comment : Designator=R69 Old Comment=100Ω New Comment=2.2KΩ
+Change Component Comment : Designator=R74 Old Comment=100Ω New Comment=2.2KΩ
+Change Component Comment : Designator=R77 Old Comment=100Ω New Comment=2.2KΩ
+Change Component Comment : Designator=R91 Old Comment=100Ω New Comment=2.2KΩ
+Change Component Comment : Designator=R95 Old Comment=100Ω New Comment=2.2KΩ
+Added Component: Designator=C197(0603C)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C198(0603C)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C199(0603C)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C200(0603C)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=U??(SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BL)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.ti.com/cn/lit/ds/symlink/ref2030.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "使能/关断；内置输出缓冲；多路参考输出"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "3.02V~5.5V 串联 460uA 8ppm/℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TI(德州仪器)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "REF2030AIDDCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Cathode Current for Regulation"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "018c57e721114987ae90467fe9f1d259"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "114.96,110.236,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Noise - 1/10Hz to 10Hz"; Value = "12ppmp-p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Noise - 10Hz to 10kHz"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40℃~+125℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "固定"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "460uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Type"; Value = "串联"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C528704"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "REF2030AIDDCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "8ppm/℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±0.05%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "3.02V~5.5V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C197-1
+Added Pin To Net: NetName=GND Pin=C198-1
+Added Pin To Net: NetName=GND Pin=C199-1
+Added Pin To Net: NetName=AVDD Pin=C199-2
+Added Pin To Net: NetName=GND Pin=C200-1
+Added Pin To Net: NetName=AVDD Pin=C200-2
+Added Pin To Net: NetName=OUT1_P Pin=R13-1
+Added Pin To Net: NetName=OUT2_P Pin=R29-1
+Added Pin To Net: NetName=OUT3_P Pin=R43-1
+Added Pin To Net: NetName=OUT4_P Pin=R52-1
+Added Pin To Net: NetName=OUT5_P Pin=R60-1
+Added Pin To Net: NetName=OUT6_P Pin=R69-1
+Added Pin To Net: NetName=OUT7_P Pin=R77-1
+Added Pin To Net: NetName=OUT8_P Pin=R95-1
+Added Pin To Net: NetName=GND Pin=U??-2
+Added Pin To Net: NetName=AVDD Pin=U??-3
+Added Pin To Net: NetName=AVDD Pin=U??-4
+Added Pin To Net: NetName=VBIAS_1V5 Pin=C197-2
+Added Pin To Net: NetName=VBIAS_1V5 Pin=C198-2
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R8-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R25-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R39-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R48-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R57-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R67-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R74-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R91-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R149-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R151-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R154-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R156-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R159-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R161-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R162-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R164-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R165-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R167-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R169-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R171-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R173-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R175-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R177-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R179-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R181-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R183-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R185-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R187-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R189-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R191-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R193-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R196-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R198-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R201-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R203-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R205-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R207-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R209-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R211-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R213-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R215-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R217-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R219-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R221-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R223-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R225-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R227-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R230-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R258-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R263-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R265-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R266-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R267-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R268-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R269-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R270-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=U??-1
+Added Net: Name=VBIAS_1V5
+Added Member To Class: ClassName=DSP大板子 Member=Component C197 100nf
+Added Member To Class: ClassName=DSP大板子 Member=Component C198 1uf
+Added Member To Class: ClassName=DSP大板子 Member=Component C199 1uf
+Added Member To Class: ClassName=DSP大板子 Member=Component C200 100nf
+Added Member To Class: ClassName=DSP大板子 Member=Component U?? ref2030aiddcr
+Added Rule: Name=Schematic Supply Nets_4

@@ -1,0 +1,94 @@
+# 已导入的两个工程库
+
+共导入 88 个库文件（原理图库 44 个，PCB 封装库 44 个）。
+
+文件位于 `Libraries/DSP_SchLib` 和 `Libraries/DSP_PcbLib`，目标工程已登记这些库。
+
+- `Libraries/DSP_SchLib/1.5V基准源跟随器_OPA192IDBVR.SCHLIB`
+- `Libraries/DSP_SchLib/100K_0805_Yageo RC0805FR-07100KL.SCHLIB`
+- `Libraries/DSP_SchLib/100µF_50V，低阻、105℃、直插_EEUFR1H101.SCHLIB`
+- `Libraries/DSP_SchLib/10µF、100V、±20%、105℃_100YXJ10M6.3X11.SCHLIB`
+- `Libraries/DSP_SchLib/15V电源输出隔离磁珠_BLM31PG121SN1L.SCHLIB`
+- `Libraries/DSP_SchLib/16MHz晶振.SCHLIB`
+- `Libraries/DSP_SchLib/1×4P插针.SCHLIB`
+- `Libraries/DSP_SchLib/2.2µF_100V、X7R、1210.SCHLIB`
+- `Libraries/DSP_SchLib/24V转12V芯片_URA2412S-6WR3.SCHLIB`
+- `Libraries/DSP_SchLib/24V转15V电源模块_MORNSUN URA2415YMD-15WR3.SCHLIB`
+- `Libraries/DSP_SchLib/24V转15V芯片_URA2415S-6WR3.SCHLIB`
+- `Libraries/DSP_SchLib/24V转5V芯片_TPS54560BDDAR.SCHLIB`
+- `Libraries/DSP_SchLib/24位AD小板子.SCHLIB`
+- `Libraries/DSP_SchLib/2×2P跳线插针.SCHLIB`
+- `Libraries/DSP_SchLib/2×5P插针.SCHLIB`
+- `Libraries/DSP_SchLib/4.7µF_50V、X7R、1206_CL31B475KBHNNNE.SCHLIB`
+- `Libraries/DSP_SchLib/4.7µH电感_SRN6045TA-4R7M.SCHLIB`
+- `Libraries/DSP_SchLib/47µF_63V、低ESR铝电解_插件,D8xL11.5mm.SCHLIB`
+- `Libraries/DSP_SchLib/5V电源功率电感_Würth 7447798720.SCHLIB`
+- `Libraries/DSP_SchLib/5V电源肖特基二极管_B560C-13-F.SCHLIB`
+- `Libraries/DSP_SchLib/C0805_Murata GRM21BR71H105KA12L.SCHLIB`
+- `Libraries/DSP_SchLib/CAN专用TVS.SCHLIB`
+- `Libraries/DSP_SchLib/DSP扩展板.SCHLIB`
+- `Libraries/DSP_SchLib/EEPROM.SCHLIB`
+- `Libraries/DSP_SchLib/MCP2515.SCHLIB`
+- `Libraries/DSP_SchLib/MOS栅极保护稳压管_BZT52C12-7-F.SCHLIB`
+- `Libraries/DSP_SchLib/MOS管（2N7002,215）.SCHLIB`
+- `Libraries/DSP_SchLib/P沟道防反MOS管_DMP6023LE-13.SCHLIB`
+- `Libraries/DSP_SchLib/TVS（无极性）.SCHLIB`
+- `Libraries/DSP_SchLib/TVS（有极性）.SCHLIB`
+- `Libraries/DSP_SchLib/三接口压线端子.SCHLIB`
+- `Libraries/DSP_SchLib/两接口压线端子.SCHLIB`
+- `Libraries/DSP_SchLib/保险丝_Littelfuse 0451003.MRL.SCHLIB`
+- `Libraries/DSP_SchLib/光耦.SCHLIB`
+- `Libraries/DSP_SchLib/基准电压芯片_REF2030AIDDCR.SCHLIB`
+- `Libraries/DSP_SchLib/底板开发板_Project.SCHLIB`
+- `Libraries/DSP_SchLib/放电二极管.SCHLIB`
+- `Libraries/DSP_SchLib/电容220µF_Panasonic EEU-FR1J221.SCHLIB`
+- `Libraries/DSP_SchLib/磁珠L0603.SCHLIB`
+- `Libraries/DSP_SchLib/网口RJ45 Bel SI-46001-F.SCHLIB`
+- `Libraries/DSP_SchLib/网口芯片KSZ8081RNA.SCHLIB`
+- `Libraries/DSP_SchLib/调理电路板.SCHLIB`
+- `Libraries/DSP_SchLib/跳线排针1×2.SCHLIB`
+- `Libraries/DSP_SchLib/静电和浪涌保护_TPD4E1U06.SCHLIB`
+- `Libraries/DSP_PcbLib/1.5V基准源跟随器_OPA192IDBVR.PcbLib`
+- `Libraries/DSP_PcbLib/100K_0805_Yageo RC0805FR-07100KL.PcbLib`
+- `Libraries/DSP_PcbLib/100µF_50V，低阻、105℃、直插_EEUFR1H101.PcbLib`
+- `Libraries/DSP_PcbLib/10µF、100V、±20%、105℃_100YXJ10M6.3X11.PcbLib`
+- `Libraries/DSP_PcbLib/15V电源输出隔离磁珠_BLM31PG121SN1L.PcbLib`
+- `Libraries/DSP_PcbLib/16MHz晶振.PcbLib`
+- `Libraries/DSP_PcbLib/1×4P插针.PcbLib`
+- `Libraries/DSP_PcbLib/2.2µF_100V、X7R、1210.PcbLib`
+- `Libraries/DSP_PcbLib/24V转12V芯片_URA2412S-6WR3.PcbLib`
+- `Libraries/DSP_PcbLib/24V转15V电源模块_MORNSUN URA2415YMD-15WR3.PcbLib`
+- `Libraries/DSP_PcbLib/24V转15V芯片_URA2415S-6WR3.PcbLib`
+- `Libraries/DSP_PcbLib/24V转5V芯片_TPS54560BDDAR.PcbLib`
+- `Libraries/DSP_PcbLib/24位ad小板子.PcbLib`
+- `Libraries/DSP_PcbLib/2×2P跳线插针.PcbLib`
+- `Libraries/DSP_PcbLib/2×5P插针.PcbLib`
+- `Libraries/DSP_PcbLib/4.7µF_50V、X7R、1206_CL31B475KBHNNNE.PcbLib`
+- `Libraries/DSP_PcbLib/4.7µH电感_SRN6045TA-4R7M.PcbLib`
+- `Libraries/DSP_PcbLib/47µF_63V、低ESR铝电解_插件,D8xL11.5mm.PcbLib`
+- `Libraries/DSP_PcbLib/5V电源功率电感_Würth 7447798720.PcbLib`
+- `Libraries/DSP_PcbLib/5V电源肖特基二极管_B560C-13-F.PcbLib`
+- `Libraries/DSP_PcbLib/C0805_Murata GRM21BR71H105KA12L.PcbLib`
+- `Libraries/DSP_PcbLib/CAN专用TVS.PcbLib`
+- `Libraries/DSP_PcbLib/DSP扩展板.PcbLib`
+- `Libraries/DSP_PcbLib/EEPROM.PcbLib`
+- `Libraries/DSP_PcbLib/MCP2515.PcbLib`
+- `Libraries/DSP_PcbLib/MOS栅极保护稳压管_BZT52C12-7-F.PcbLib`
+- `Libraries/DSP_PcbLib/MOS管（2N7002,215）.PcbLib`
+- `Libraries/DSP_PcbLib/P沟道防反MOS管_DMP6023LE-13.PcbLib`
+- `Libraries/DSP_PcbLib/TVS(有极性).PcbLib`
+- `Libraries/DSP_PcbLib/TVS（无极性）.PcbLib`
+- `Libraries/DSP_PcbLib/三接口压线端子.PcbLib`
+- `Libraries/DSP_PcbLib/两接口压线端子.PcbLib`
+- `Libraries/DSP_PcbLib/保险丝_Littelfuse 0451003.MRL.PcbLib`
+- `Libraries/DSP_PcbLib/光耦.PcbLib`
+- `Libraries/DSP_PcbLib/后改2025底板线路板图.PcbLib`
+- `Libraries/DSP_PcbLib/基准电压芯片_REF2030AIDDCR.PcbLib`
+- `Libraries/DSP_PcbLib/放电二极管.PcbLib`
+- `Libraries/DSP_PcbLib/电容220µF_Panasonic EEU-FR1J221.PcbLib`
+- `Libraries/DSP_PcbLib/磁珠L0603.PcbLib`
+- `Libraries/DSP_PcbLib/网口RJ45 Bel SI-46001-F.PcbLib`
+- `Libraries/DSP_PcbLib/网口芯片KSZ8081RNA.PcbLib`
+- `Libraries/DSP_PcbLib/调理电路板.PcbLib`
+- `Libraries/DSP_PcbLib/跳线排针1×2.PcbLib`
+- `Libraries/DSP_PcbLib/静电和浪涌保护_TPD4E1U06.PcbLib`

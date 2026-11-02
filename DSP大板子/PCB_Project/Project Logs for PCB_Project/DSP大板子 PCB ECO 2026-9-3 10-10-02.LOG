@@ -1,0 +1,8 @@
+Added Component: Designator=R129(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IOVDD Pin=R129-1
+Added Pin To Net: NetName=UART0_TXD_1 Pin=R129-2
+Added Member To Class: ClassName=DSP大板子 Member=Component R129 10K/DNP

@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=DSP大板子 Member=R?
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R104
+Change Net Name : Old Net Name=NetR81_1 New Net Name=NetR8_1
+Added Member To Class: ClassName=DSP大板子 Member=Component R8 2.2KΩ
+Added Member To Class: ClassName=DSP大板子 Member=Component R104 100Ω

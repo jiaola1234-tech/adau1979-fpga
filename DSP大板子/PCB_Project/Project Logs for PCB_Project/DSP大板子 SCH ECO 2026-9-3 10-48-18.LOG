@@ -1,0 +1,8 @@
+Remove Pin=U6-1 From Net=TXCAN_1
+Remove Pin=U6-4 From Net=RXCAN_1
+Remove Pin=U9-1 From Net=TXCAN
+Remove Pin=U9-2 From Net=RXCAN
+Add Pin To Net: Pin=U6-1 Old Net=TXCAN_1 New Net=TXCAN
+Add Pin To Net: Pin=U6-4 Old Net=RXCAN_1 New Net=RXCAN
+Add Pin To Net: Pin=U9-1 Old Net=TXCAN New Net=TXCAN_1
+Add Pin To Net: Pin=U9-2 Old Net=RXCAN New Net=RXCAN_1

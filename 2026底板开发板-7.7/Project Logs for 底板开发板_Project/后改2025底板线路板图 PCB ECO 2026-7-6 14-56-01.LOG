@@ -1,0 +1,5 @@
+Added Component: Designator=C243(CAP-TH_BD10.0-P5.00-D1.0-FD)
+Added Pin To Net: NetName=24V Pin=C243-1
+Added Pin To Net: NetName=AGND Pin=C243-2
+Added Member To Class: ClassName=后改2025底板电路原理图 Member=Component C241 680uF
+Added Member To Class: ClassName=后改2025底板电路原理图 Member=Component C243 330uf

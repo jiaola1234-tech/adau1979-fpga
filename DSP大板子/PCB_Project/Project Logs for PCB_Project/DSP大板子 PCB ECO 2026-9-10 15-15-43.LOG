@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=C197-2
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=C198-2
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=U43-1
+Added Component: Designator=C109(0603C)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C111(0603C)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=U44(SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Common Mode Rejection Ratio(CMRR)"; Value = "140dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.ti.com/cn/lit/gpn/opa192"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dual Supply"; Value = "-18V~-2.25V；2.25V~18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gain Bandwidth Product"; Value = "10MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ib - Input Bias Current"; Value = "5pA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Offset Current(Ios)"; Value = "2pA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Offset Voltage Drift(Vos TC)"; Value = "200nV/℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "36V低失调电压、低输入偏置电流、轨到轨输入/输出精密运算放大器，具有e-trim特性"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TI(德州仪器)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "OPA192IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Power Supply Range (Vdd-Vss)"; Value = "36V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "0a2a1b8f50944f73965918ad6e5fe167"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "SOT-23-5_L2.9-W1.6-H1.1-LS2.8-P0.95"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "118.60433,114.173,0,90,0,0,0.0005,0.0005,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Noise density(eN)"; Value = "5.5nV/√Hz@1kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "单路"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40℃~+125℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "65mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current(Iq)"; Value = "1mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rail to Rail"; Value = "轨到轨输入,轨到轨输出"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Single Supply"; Value = "4.5V~36V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate"; Value = "20V/us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C139648"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "OPA192IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vos - Input Offset Voltage"; Value = "5uV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C109-1
+Added Pin To Net: NetName=+5V_SYS Pin=C109-2
+Added Pin To Net: NetName=GND Pin=C111-1
+Added Pin To Net: NetName=+5V_SYS Pin=C111-2
+Added Pin To Net: NetName=VBIAS_1V5 Pin=U44-1
+Added Pin To Net: NetName=GND Pin=U44-2
+Added Pin To Net: NetName=VBIAS_1V5 Pin=U44-4
+Added Pin To Net: NetName=+5V_SYS Pin=U44-5
+Added Pin To Net: NetName=VBIAS_1V5_RAW Pin=C197-2
+Added Pin To Net: NetName=VBIAS_1V5_RAW Pin=C198-2
+Added Pin To Net: NetName=VBIAS_1V5_RAW Pin=U43-1
+Added Pin To Net: NetName=VBIAS_1V5_RAW Pin=U44-3
+Added Net: Name=VBIAS_1V5_RAW
+Added Member To Class: ClassName=DSP大板子 Member=Component C109 100nf
+Added Member To Class: ClassName=DSP大板子 Member=Component C111 1uf
+Added Member To Class: ClassName=DSP大板子 Member=Component U44 opa192idbvr
+Added Rule: Name=Schematic Supply Nets_9

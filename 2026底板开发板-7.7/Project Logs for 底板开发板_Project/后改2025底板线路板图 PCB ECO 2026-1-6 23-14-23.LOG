@@ -1,0 +1,32 @@
+Added Pin To Net: NetName=Net13_1 Pin=13-1
+Added Pin To Net: NetName=Net13_1 Pin=R221-1
+Added Pin To Net: NetName=Net13_1 Pin=U31-6
+Added Net: Name=Net13_1
+Added Pin To Net: NetName=Net23_1 Pin=23-1
+Added Pin To Net: NetName=Net23_1 Pin=R222-1
+Added Pin To Net: NetName=Net23_1 Pin=U32-6
+Added Net: Name=Net23_1
+Added Pin To Net: NetName=Net33_1 Pin=33-1
+Added Pin To Net: NetName=Net33_1 Pin=R223-1
+Added Pin To Net: NetName=Net33_1 Pin=U33-6
+Added Net: Name=Net33_1
+Added Pin To Net: NetName=Net43_1 Pin=43-1
+Added Pin To Net: NetName=Net43_1 Pin=R224-1
+Added Pin To Net: NetName=Net43_1 Pin=U34-6
+Added Net: Name=Net43_1
+Added Pin To Net: NetName=Net53_1 Pin=53-1
+Added Pin To Net: NetName=Net53_1 Pin=R225-1
+Added Pin To Net: NetName=Net53_1 Pin=U35-6
+Added Net: Name=Net53_1
+Added Pin To Net: NetName=Net63_1 Pin=63-1
+Added Pin To Net: NetName=Net63_1 Pin=R226-1
+Added Pin To Net: NetName=Net63_1 Pin=U36-6
+Added Net: Name=Net63_1
+Added Pin To Net: NetName=Net73_1 Pin=73-1
+Added Pin To Net: NetName=Net73_1 Pin=R227-1
+Added Pin To Net: NetName=Net73_1 Pin=U37-6
+Added Net: Name=Net73_1
+Added Pin To Net: NetName=Net83_1 Pin=83-1
+Added Pin To Net: NetName=Net83_1 Pin=R228-1
+Added Pin To Net: NetName=Net83_1 Pin=U38-6
+Added Net: Name=Net83_1

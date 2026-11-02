@@ -1,0 +1,133 @@
+Removed Pin From Net: NetName=AGND Pin=C24-1
+Removed Pin From Net: NetName=GND Pin=C24-1
+Removed Pin From Net: NetName=3V3 Pin=C24-2
+Removed Pin From Net: NetName=AVCC Pin=C24-2
+Removed Pin From Net: NetName=24V Pin=C241-1
+Removed Pin From Net: NetName=AGND Pin=C241-1
+Removed Pin From Net: NetName=ADIN1 Pin=C241-2
+Removed Pin From Net: NetName=AGND Pin=C241-2
+Removed Pin From Net: NetName=24V Pin=C242-1
+Removed Pin From Net: NetName=AGND Pin=C242-1
+Removed Pin From Net: NetName=ADIN2 Pin=C242-2
+Removed Pin From Net: NetName=AGND Pin=C242-2
+Removed Pin From Net: NetName=24V Pin=C243-1
+Removed Pin From Net: NetName=AGND Pin=C243-1
+Removed Pin From Net: NetName=ADIN3 Pin=C243-2
+Removed Pin From Net: NetName=AGND Pin=C243-2
+Removed Pin From Net: NetName=NetC81_2 Pin=PL_KEY1-1
+Removed Pin From Net: NetName=NetC81_2 Pin=PL_KEY1-2
+Removed Pin From Net: NetName=GND Pin=PL_KEY1-3
+Removed Pin From Net: NetName=GND Pin=PL_KEY1-4
+Removed Pin From Net: NetName=NetC82_2 Pin=PL_KEY2-1
+Removed Pin From Net: NetName=NetC82_2 Pin=PL_KEY2-2
+Removed Pin From Net: NetName=NetC83_2 Pin=PL_KEY3-1
+Removed Pin From Net: NetName=NetC83_2 Pin=PL_KEY3-2
+Removed Pin From Net: NetName=NetC84_2 Pin=PL_KEY4-1
+Removed Pin From Net: NetName=NetC84_2 Pin=PL_KEY4-2
+Removed Pin From Net: NetName=GND Pin=PL_KEY4-3
+Removed Pin From Net: NetName=GND Pin=PL_KEY4-4
+Removed Pin From Net: NetName=NetC78_2 Pin=PS_KEY1-1
+Removed Pin From Net: NetName=NetC78_2 Pin=PS_KEY1-2
+Removed Pin From Net: NetName=GND Pin=PS_KEY1-3
+Removed Pin From Net: NetName=GND Pin=PS_KEY1-4
+Removed Pin From Net: NetName=NetC80_2 Pin=PS_KEY2-1
+Removed Pin From Net: NetName=NetC80_2 Pin=PS_KEY2-2
+Removed Pin From Net: NetName=GND Pin=PS_KEY2-3
+Removed Pin From Net: NetName=GND Pin=PS_KEY2-4
+Removed Pin From Net: NetName=NetSW3_3 Pin=PS_POR_B-3
+Removed Pin From Net: NetName=NetSW3_3 Pin=PS_POR_B-4
+Change Component Footprint: Designator=C24 Old Footprint=0603 New Footprint=C 0805_L
+Change Component Footprint: Designator=C242 Old Footprint=0603C New Footprint=C 0603_L
+Change Component Footprint: Designator=C242 Old Footprint=C 0603_L New Footprint=0603C
+Change Component Footprint: Designator=C243 Old Footprint=C 0603_L New Footprint=CAP-TH_BD10.0-P5.00-D1.0-FD
+Change Component Footprint: Designator=C241 Old Footprint=C 0603_L New Footprint=CAP-TH_BD13.0-P5.00-D1.2-FD
+Change Component Footprint: Designator=C24 Old Footprint=C 0805_L New Footprint=0603
+Change Component Footprint: Designator=C243 Old Footprint=CAP-TH_BD10.0-P5.00-D1.0-FD New Footprint=C 0603_L
+Change Component Footprint: Designator=C241 Old Footprint=CAP-TH_BD13.0-P5.00-D1.2-FD New Footprint=C 0603_L
+Change Component Comment : Designator=C242 Old Comment=4.7uf New Comment=104
+Change Component Comment : Designator=C242 Old Comment=104 New Comment=4.7uf
+Change Component Comment : Designator=C243 Old Comment=104 New Comment=330uf
+Change Component Comment : Designator=C241 Old Comment=104 New Comment=680uF
+Change Component Comment : Designator=C243 Old Comment=330uf New Comment=104
+Change Component Comment : Designator=C241 Old Comment=680uF New Comment=104
+Change component parameters: Designator = "C241" ("C241"); Footprint = "C 0603_L"; UniqueID = "$$$\LZIDQKYB" ("$$$\LZIDQKYB")
+Change component parameters: Designator = "C241" ("C241"); Footprint = "CAP-TH_BD13.0-P5.00-D1.2-FD"; UniqueID = "$$$\TEDTBPFP" ("$$$\TEDTBPFP")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C242" ("C242"); Footprint = "C 0603_L"; UniqueID = "$$$\UGNPPDJK" ("$$$\UGNPPDJK")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C242" ("C242"); Footprint = "0603C"; UniqueID = "$$$\WCSFQIYR" ("$$$\WCSFQIYR")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C243" ("C243"); Footprint = "C 0603_L"; UniqueID = "$$$\JHYIVMQS" ("$$$\JHYIVMQS")
+Change component parameters: Designator = "C243" ("C243"); Footprint = "CAP-TH_BD10.0-P5.00-D1.0-FD"; UniqueID = "$$$\AMNJDMTW" ("$$$\AMNJDMTW")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=3V3 Pin=C24-2
+Added Pin To Net: NetName=AVCC Pin=C24-2
+Added Pin To Net: NetName=24V Pin=C241-1
+Added Pin To Net: NetName=AGND Pin=C241-1
+Added Pin To Net: NetName=ADIN1 Pin=C241-2
+Added Pin To Net: NetName=AGND Pin=C241-2
+Added Pin To Net: NetName=24V Pin=C242-1
+Added Pin To Net: NetName=AGND Pin=C242-1
+Added Pin To Net: NetName=ADIN2 Pin=C242-2
+Added Pin To Net: NetName=AGND Pin=C242-2
+Added Pin To Net: NetName=24V Pin=C243-1
+Added Pin To Net: NetName=AGND Pin=C243-1
+Added Pin To Net: NetName=ADIN3 Pin=C243-2
+Added Pin To Net: NetName=AGND Pin=C243-2
+Added Pin To Net: NetName=+5 Pin=J24-1
+Added Pin To Net: NetName=+5 Pin=J24-2
+Added Pin To Net: NetName=GND Pin=J24-3
+Added Pin To Net: NetName=GND Pin=J24-4
+Added Pin To Net: NetName=3V3 Pin=J24-5
+Added Pin To Net: NetName=3V3 Pin=J24-6
+Added Pin To Net: NetName=GND Pin=J24-15
+Added Pin To Net: NetName=GND Pin=J24-16
+Added Pin To Net: NetName=GND Pin=J24-27
+Added Pin To Net: NetName=GND Pin=J24-28
+Added Pin To Net: NetName=GND Pin=J24-39
+Added Pin To Net: NetName=GND Pin=J24-40
+Added Pin To Net: NetName=+5 Pin=J25-1
+Added Pin To Net: NetName=+5 Pin=J25-2
+Added Pin To Net: NetName=CTP_RST Pin=J25-37
+Added Pin To Net: NetName=CTP_INT Pin=J25-38
+Add Pin To Net: Unknown Pin: Pin SW2-1
+Add Pin To Net: Unknown Pin: Pin SW2-2
+Add Pin To Net: Unknown Pin: Pin SW2-3
+Add Pin To Net: Unknown Pin: Pin SW2-4
+Add Pin To Net: Unknown Pin: Pin SW3-1
+Add Pin To Net: Unknown Pin: Pin SW3-2
+Add Pin To Net: Unknown Pin: Pin SW3-3
+Add Pin To Net: Unknown Pin: Pin SW3-4
+Add Pin To Net: Unknown Pin: Pin SW4-1
+Add Pin To Net: Unknown Pin: Pin SW4-2
+Add Pin To Net: Unknown Pin: Pin SW4-3
+Add Pin To Net: Unknown Pin: Pin SW4-4
+Add Pin To Net: Unknown Pin: Pin SW5-1
+Add Pin To Net: Unknown Pin: Pin SW5-2
+Add Pin To Net: Unknown Pin: Pin SW5-3
+Add Pin To Net: Unknown Pin: Pin SW5-4
+Add Pin To Net: Unknown Pin: Pin SW6-1
+Add Pin To Net: Unknown Pin: Pin SW6-2
+Add Pin To Net: Unknown Pin: Pin SW6-3
+Add Pin To Net: Unknown Pin: Pin SW6-4
+Add Pin To Net: Unknown Pin: Pin SW7-1
+Add Pin To Net: Unknown Pin: Pin SW7-2
+Add Pin To Net: Unknown Pin: Pin SW7-3
+Add Pin To Net: Unknown Pin: Pin SW7-4
+Add Pin To Net: Unknown Pin: Pin SW8-1
+Add Pin To Net: Unknown Pin: Pin SW8-2
+Add Pin To Net: Unknown Pin: Pin SW8-3
+Add Pin To Net: Unknown Pin: Pin SW8-4

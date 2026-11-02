@@ -1,0 +1,6 @@
+Added Component: Designator=+15(TEST)
+Added Component: Designator=-15(TEST)
+Added Pin To Net: NetName=+15V Pin=+15-1
+Added Pin To Net: NetName=-15V Pin=-15-1
+Added Member To Class: ClassName=DSP大板子 Member=Component +15 TEST POINT
+Added Member To Class: ClassName=DSP大板子 Member=Component -15 TEST POINT

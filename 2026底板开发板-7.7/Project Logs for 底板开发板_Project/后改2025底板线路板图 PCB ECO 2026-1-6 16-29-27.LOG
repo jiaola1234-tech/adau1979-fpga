@@ -1,0 +1,5 @@
+Change Component Comment : Designator=R16 Old Comment=1K New Comment=120
+Added Pin To Net: NetName=NetJ17_21 Pin=J17-21
+Added Pin To Net: NetName=NetJ17_21 Pin=R16-2
+Added Pin To Net: NetName=NetJ17_21 Pin=U4-6
+Added Net: Name=NetJ17_21

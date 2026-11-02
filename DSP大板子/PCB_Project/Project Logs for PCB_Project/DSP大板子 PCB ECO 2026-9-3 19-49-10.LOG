@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=CAN_L Pin=J2-21
+Removed Pin From Net: NetName=CAN_H Pin=J2-22
+Added Pin To Net: NetName=CAN_H Pin=J2-21
+Added Pin To Net: NetName=CAN_L Pin=J2-22
+Added Member To Class: ClassName=DSP´ó°å×Ó Member=Component U38 dg201BDY

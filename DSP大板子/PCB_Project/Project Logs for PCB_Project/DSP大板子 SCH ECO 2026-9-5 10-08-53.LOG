@@ -1,0 +1,4 @@
+Remove Pin=R24-2 From Net=A1
+Remove Pin=R26-2 From Net=C2
+Remove Pin=R63-2 From Net=A1
+Remove Pin=R64-2 From Net=C2

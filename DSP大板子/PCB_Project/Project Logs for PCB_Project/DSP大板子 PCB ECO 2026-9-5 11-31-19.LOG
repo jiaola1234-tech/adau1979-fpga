@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=TXCAN_1 Pin=U11-2
+Removed Pin From Net: NetName=RXCAN_1 Pin=U11-4
+Change Component Comment : Designator=R47 Old Comment=47k次 New Comment=DNP(47k次)
+Change Component Comment : Designator=R82 Old Comment=47k次 New Comment=DNP(47k次)
+Added Pin To Net: NetName=RXCAN_1 Pin=U11-2
+Added Pin To Net: NetName=TXCAN_1 Pin=U11-4

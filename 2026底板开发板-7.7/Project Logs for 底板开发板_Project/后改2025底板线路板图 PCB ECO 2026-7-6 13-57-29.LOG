@@ -1,0 +1,135 @@
+Removed Pin From Net: NetName=AGND Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C23-1
+Removed Pin From Net: NetName=+5 Pin=C23-2
+Removed Pin From Net: NetName=AVCC Pin=C23-2
+Removed Pin From Net: NetName=AGND Pin=C24-1
+Removed Pin From Net: NetName=GND Pin=C24-1
+Removed Pin From Net: NetName=3V3 Pin=C24-2
+Removed Pin From Net: NetName=AVCC Pin=C24-2
+Removed Pin From Net: NetName=24V Pin=C241-1
+Removed Pin From Net: NetName=AGND Pin=C241-1
+Removed Pin From Net: NetName=ADIN1 Pin=C241-2
+Removed Pin From Net: NetName=AGND Pin=C241-2
+Removed Pin From Net: NetName=CAN_P Pin=R16-1
+Removed Pin From Net: NetName=GND Pin=R16-1
+Removed Pin From Net: NetName=CAN_N Pin=R16-2
+Removed Pin From Net: NetName=NetR4_1 Pin=R16-2
+Change Component Footprint: Designator=C23 Old Footprint=0603 New Footprint=C 0805_L
+Change Component Footprint: Designator=C24 Old Footprint=0603 New Footprint=C 0805_L
+Change Component Footprint: Designator=R16 Old Footprint=0603 New Footprint=R 0805_L
+Change Component Footprint: Designator=C241 Old Footprint=C 0603_L New Footprint=CAP-TH_BD13.0-P5.00-D1.2-FD
+Change Component Footprint: Designator=C241 Old Footprint=CAP-TH_BD13.0-P5.00-D1.2-FD New Footprint=C 0603_L
+Change Component Comment : Designator=C241 Old Comment=104 New Comment=680uF
+Change Component Comment : Designator=R16 Old Comment=120 New Comment=1K
+Change Component Comment : Designator=C241 Old Comment=680uF New Comment=104
+Change component parameters: Designator = "C241" ("C241"); Footprint = "C 0603_L"; UniqueID = "\LZIDQKYB" ("\LZIDQKYB")
+Change component parameters: Designator = "C241" ("C241"); Footprint = "CAP-TH_BD13.0-P5.00-D1.2-FD"; UniqueID = "\TEDTBPFP" ("\TEDTBPFP")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C113(0603)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C114(0603)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R116(0603)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(TSW SMD-6*6*5)
+Add component (AddParameter): Name = "CLASS"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW3(TSW SMD-6*6*5)
+Add component (AddParameter): Name = "CLASS"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW4(TSW SMD-6*6*5)
+Add component (AddParameter): Name = "CLASS"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW5(TSW SMD-6*6*5)
+Add component (AddParameter): Name = "CLASS"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW6(TSW SMD-6*6*5)
+Add component (AddParameter): Name = "CLASS"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW7(TSW SMD-6*6*5)
+Add component (AddParameter): Name = "CLASS"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW8(TSW SMD-6*6*5)
+Add component (AddParameter): Name = "CLASS"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND Pin=C23-1
+Added Pin To Net: NetName=AVCC Pin=C23-2
+Added Pin To Net: NetName=AGND Pin=C24-1
+Added Pin To Net: NetName=AVCC Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C113-1
+Added Pin To Net: NetName=+5 Pin=C113-2
+Added Pin To Net: NetName=GND Pin=C114-1
+Added Pin To Net: NetName=3V3 Pin=C114-2
+Added Pin To Net: NetName=24V Pin=C241-1
+Added Pin To Net: NetName=AGND Pin=C241-1
+Added Pin To Net: NetName=ADIN1 Pin=C241-2
+Added Pin To Net: NetName=AGND Pin=C241-2
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=NetR4_1 Pin=R16-2
+Added Pin To Net: NetName=CAN_P Pin=R116-1
+Added Pin To Net: NetName=CAN_N Pin=R116-2
+Added Pin To Net: NetName=NetC78_2 Pin=SW2-1
+Added Pin To Net: NetName=NetC78_2 Pin=SW2-2
+Added Pin To Net: NetName=GND Pin=SW2-3
+Added Pin To Net: NetName=GND Pin=SW2-4
+Added Pin To Net: NetName=GND Pin=SW3-1
+Added Pin To Net: NetName=GND Pin=SW3-2
+Added Pin To Net: NetName=NetSW3_3 Pin=SW3-3
+Added Pin To Net: NetName=NetSW3_3 Pin=SW3-4
+Added Pin To Net: NetName=NetC80_2 Pin=SW4-1
+Added Pin To Net: NetName=NetC80_2 Pin=SW4-2
+Added Pin To Net: NetName=GND Pin=SW4-3
+Added Pin To Net: NetName=GND Pin=SW4-4
+Added Pin To Net: NetName=NetC81_2 Pin=SW5-1
+Added Pin To Net: NetName=NetC81_2 Pin=SW5-2
+Added Pin To Net: NetName=GND Pin=SW5-3
+Added Pin To Net: NetName=GND Pin=SW5-4
+Added Pin To Net: NetName=NetC82_2 Pin=SW6-1
+Added Pin To Net: NetName=NetC82_2 Pin=SW6-2
+Added Pin To Net: NetName=GND Pin=SW6-3
+Added Pin To Net: NetName=GND Pin=SW6-4
+Added Pin To Net: NetName=NetC83_2 Pin=SW7-1
+Added Pin To Net: NetName=NetC83_2 Pin=SW7-2
+Added Pin To Net: NetName=GND Pin=SW7-3
+Added Pin To Net: NetName=GND Pin=SW7-4
+Added Pin To Net: NetName=NetC84_2 Pin=SW8-1
+Added Pin To Net: NetName=NetC84_2 Pin=SW8-2
+Added Pin To Net: NetName=GND Pin=SW8-3
+Added Pin To Net: NetName=GND Pin=SW8-4
+Added Pin To Net: NetName=C17 Pin=J27-20
+Added Net: Name=C17
+Added Pin To Net: NetName=E12 Pin=J27-22
+Added Net: Name=E12
+Added Class: Name=后改2025底板电路原理图
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6
+Added Rule: Name=Schematic Supply Nets_7
+Added Rule: Name=Schematic Supply Nets_8
+Added Rule: Name=Schematic Supply Nets_9
+Added Rule: Name=Schematic Supply Nets_10
+Added Rule: Name=Schematic Supply Nets_11
+Added Rule: Name=Schematic Supply Nets_12

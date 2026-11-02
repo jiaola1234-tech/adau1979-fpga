@@ -1,0 +1,326 @@
+Removed Pin From Net: NetName=GND Pin=C154-2
+Removed Pin From Net: NetName=GND Pin=C155-2
+Removed Pin From Net: NetName=GND Pin=C157-1
+Removed Pin From Net: NetName=+15V Pin=C172-1
+Removed Pin From Net: NetName=GND Pin=C172-2
+Removed Pin From Net: NetName=+15V Pin=C175-1
+Removed Pin From Net: NetName=GND Pin=C175-2
+Removed Pin From Net: NetName=GND Pin=C176-1
+Removed Pin From Net: NetName=-15V Pin=C176-2
+Removed Pin From Net: NetName=-15V Pin=C177-1
+Removed Pin From Net: NetName=GND Pin=C177-2
+Removed Pin From Net: NetName=+24V_SYS Pin=L5-1
+Removed Pin From Net: NetName=+15V Pin=R271-1
+Removed Pin From Net: NetName=NetC156_1 Pin=R271-2
+Removed Pin From Net: NetName=-15V Pin=R272-1
+Removed Pin From Net: NetName=GND Pin=U26-1
+Removed Pin From Net: NetName=NetC156_1 Pin=U26-6
+Removed Pin From Net: NetName=GND Pin=U26-7
+Removed Member From Class: ClassName=DSP大板子 Member=C175
+Removed Member From Class: ClassName=DSP大板子 Member=C176
+Removed Member From Class: ClassName=DSP大板子 Member=C177
+Removed Member From Class: ClassName=DSP大板子 Member=R271
+Removed Member From Class: ClassName=DSP大板子 Member=R272
+Change Component Footprint: Designator=C157 Old Footprint=5x11mm New Footprint=0603C
+Change Component Footprint: Designator=C156 Old Footprint=5x11mm New Footprint=CAP-TH_BD8.0-P3.50-D0.6-FD_1
+Change Component Footprint: Designator=L5 Old Footprint=1210L New Footprint=L1206
+Change Component Footprint: Designator=C154 Old Footprint=CAP-TH_BD8.0-P3.50-D0.6-FD New Footprint=0603C
+Change Component Footprint: Designator=C172 Old Footprint=CAP-TH_BD8.0-P3.50-D0.6-FD New Footprint=C1206
+Change Component Footprint: Designator=U26 Old Footprint=PWRM-TH_7P-L22.0-W9.5-P2.54-WRE1205S-3WR2 New Footprint=PWRM-TH_URA2415YMD-15WR3
+Change Component Comment : Designator=L5 Old Comment=4.7uH New Comment=blm31pg121sn1l
+Change Component Comment : Designator=C157 Old Comment=10u New Comment=0.1uf
+Change Component Comment : Designator=C156 Old Comment=10u New Comment=100uF
+Change Component Comment : Designator=C172 Old Comment=47uF New Comment=4.7uF
+Change Component Comment : Designator=C154 Old Comment=100uF New Comment=0.1uf
+Change Component Comment : Designator=U26 Old Comment=URA2415S-6WR3 New Comment=ura2415ymd-15wr3
+Change component parameters: Designator = "C154" ("C154"); Footprint = "CAP-TH_BD8.0-P3.50-D0.6-FD"; UniqueID = "\ISXCCHFD" ("\ISXCCHFD")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C156" ("C156"); Footprint = "5x11mm"; UniqueID = "\XRIUSNKQ" ("\XRIUSNKQ")
+Change component parameters (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/EEUFR1H101/190095.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Equivalent Series Resistance(ESR)"; Value = "61mΩ@100kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FootprintName"; Value = "CAP-TH_BD8.0-P3.50-D0.6-FD_1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "11.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "100uF ±20% 50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifetime"; Value = "6000hrs@105℃"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "PANASONIC(松下)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPart"; Value = "EEUFR1H101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelId"; Value = "5fc21599cab34df2ad7753b19b2f5286"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelName"; Value = "CAP-TH_BD8.0-P3.50-D0.6-FD_1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelTransform"; Value = "315.365,314.914,0,0,0,0,0,0,-196.85"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40℃~+105℃"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Spacing"; Value = "3.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity type"; Value = "有极性"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "870mA@100kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "插件,D8xL11.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPart"; Value = "C178702"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "EEUFR1H101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C157" ("C157"); Footprint = "5x11mm"; UniqueID = "\NLPXBDJH" ("\NLPXBDJH")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C172" ("C172"); Footprint = "CAP-TH_BD8.0-P3.50-D0.6-FD"; UniqueID = "\HGFBGTMK" ("\HGFBGTMK")
+Change component parameters (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/CL31B475KBHNNNE/52218.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FootprintName"; Value = "C1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "4.7uF ±10% 50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG(三星)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPart"; Value = "CL31B475KBHNNNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelId"; Value = "e4be705b945545a48e666415e3682bd8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelName"; Value = "C1206_L3.2-W1.6-H1.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelTransform"; Value = "125.984,62.992,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPart"; Value = "C51205"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "CL31B475KBHNNNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L5" ("L5"); Footprint = "1210L"; UniqueID = "\JIMFSRAC" ("\JIMFSRAC")
+Change component parameters (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "3.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/BLM31PG121SN1L/87017.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance(DCR)"; Value = "20mΩ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FootprintName"; Value = "L1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance @ Frequency"; Value = "120Ω@100MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "单路 1206磁珠 阻抗120Ω@100MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "muRata(村田)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPart"; Value = "BLM31PG121SN1L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelId"; Value = "85bdab7b3d4c4074b81d208eb5e865b3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelName"; Value = "L1206_L3.2-W1.6-H1.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelTransform"; Value = "125.984,62.835,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55℃~+125℃"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPart"; Value = "C85841"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "BLM31PG121SN1L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±25%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U26" ("U26"); Footprint = "PWRM-TH_7P-L22.0-W9.5-P2.54-WRE1205S-3WR2"; UniqueID = "\XNCPDTGX" ("\XNCPDTGX")
+Change component parameters (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/URA2415YMD-15WR3/5842586.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FootprintName"; Value = "PWRM-TH_URA2415YMD-15WR3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "15W 隔离式 DC-DC 转换器"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "MORNSUN(金升阳)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPart"; Value = "URA2415YMD-15WR3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "DIP,25.4x25.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPart"; Value = "C5182197"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "URA2415YMD-15WR3_C5182197"; VariantName = "[No Variations]"
+Added Component: Designator=C112(CAP-TH_BD6.3-P2.50-D0.6-FD)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "6.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Equivalent Series Resistance(ESR)"; Value = "570mΩ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "CAP-TH_BD6.3-P2.50-D0.6-FD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "11mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10uF ±20% 100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifetime"; Value = "7000hrs@105℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Rubycon(红宝石)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "100YXJ10M6.3X11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "3cdd55eab6a840dba93006d5a727d063"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "CAP-TH_BD6.3-P2.50-D0.6-FD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "247.778,247.90446,0,0,0,0,0,0,-137.795"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40℃~+105℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Spacing"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "112.14mA@120Hz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "插件,D6.3xL11mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C1668981"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "100YXJ10M6.3X11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C113(CAP-TH_BD8.0-P3.50-D0.6-FD_1)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/EEUFR1H101/190095.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Equivalent Series Resistance(ESR)"; Value = "61mΩ@100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "CAP-TH_BD8.0-P3.50-D0.6-FD_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "11.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "100uF ±20% 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifetime"; Value = "6000hrs@105℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PANASONIC(松下)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "EEUFR1H101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "5fc21599cab34df2ad7753b19b2f5286"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "CAP-TH_BD8.0-P3.50-D0.6-FD_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "315.365,314.914,0,0,0,0,0,0,-196.85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40℃~+105℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Spacing"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity type"; Value = "有极性"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "870mA@100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "插件,D8xL11.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C178702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "EEUFR1H101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C118(0603C)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C119(0603C)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C120(CAP-TH_BD8.0-P3.50-D0.6-FD_1)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/EEUFR1H101/190095.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Equivalent Series Resistance(ESR)"; Value = "61mΩ@100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "CAP-TH_BD8.0-P3.50-D0.6-FD_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "11.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "100uF ±20% 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifetime"; Value = "6000hrs@105℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PANASONIC(松下)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "EEUFR1H101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "5fc21599cab34df2ad7753b19b2f5286"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "CAP-TH_BD8.0-P3.50-D0.6-FD_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "315.365,314.914,0,0,0,0,0,0,-196.85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40℃~+105℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Spacing"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity type"; Value = "有极性"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "870mA@100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "插件,D8xL11.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C178702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "EEUFR1H101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C123(CAP-TH_BD6.3-P2.50-D0.6-FD)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "6.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Equivalent Series Resistance(ESR)"; Value = "570mΩ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "CAP-TH_BD6.3-P2.50-D0.6-FD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "11mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10uF ±20% 100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifetime"; Value = "7000hrs@105℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Rubycon(红宝石)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "100YXJ10M6.3X11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "3cdd55eab6a840dba93006d5a727d063"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "CAP-TH_BD6.3-P2.50-D0.6-FD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "247.778,247.90446,0,0,0,0,0,0,-137.795"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40℃~+105℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Spacing"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "112.14mA@120Hz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "插件,D6.3xL11mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C1668981"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "100YXJ10M6.3X11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=L6(IND-SMD_L6.0-W6.0)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Saturation(Isat)"; Value = "6.8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "4.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/SRN6045TA-4R7M/2136160.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance(DCR)"; Value = "26mΩ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "IND-SMD_L6.0-W6.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "4.7uH ±20% 6.8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "SRN6045TA-4R7M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "30081a2752cd45e4871fd4480d5f295c"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "IND-SMD_L6.0-W6.0-H4.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "236.22,237.007,0,90,0,0,-0.005,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,6x6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C2044594"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SRN6045TA-4R7M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uH"; VariantName = "[No Variations]"
+Added Component: Designator=L7(L1206)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/BLM31PG121SN1L/87017.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance(DCR)"; Value = "20mΩ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "L1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance @ Frequency"; Value = "120Ω@100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "单路 1206磁珠 阻抗120Ω@100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata(村田)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "BLM31PG121SN1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "85bdab7b3d4c4074b81d208eb5e865b3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "L1206_L3.2-W1.6-H1.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "125.984,62.835,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55℃~+125℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C85841"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "BLM31PG121SN1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±25%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C112-1
+Added Pin To Net: NetName=GND Pin=C113-1
+Added Pin To Net: NetName=-15V Pin=C113-2
+Added Pin To Net: NetName=GND Pin=C118-2
+Added Pin To Net: NetName=-15V Pin=C119-1
+Added Pin To Net: NetName=GND Pin=C119-2
+Added Pin To Net: NetName=+15V Pin=C120-1
+Added Pin To Net: NetName=GND Pin=C120-2
+Added Pin To Net: NetName=GND Pin=C123-2
+Added Pin To Net: NetName=GND Pin=C154-1
+Added Pin To Net: NetName=+15V Pin=C154-2
+Added Pin To Net: NetName=GND Pin=C155-1
+Added Pin To Net: NetName=NetC156_1 Pin=C157-1
+Added Pin To Net: NetName=GND Pin=C157-2
+Added Pin To Net: NetName=GND Pin=C172-1
+Added Pin To Net: NetName=NetC156_1 Pin=C172-2
+Added Pin To Net: NetName=-15V Pin=L5-2
+Added Pin To Net: NetName=+24V_SYS Pin=L6-1
+Added Pin To Net: NetName=NetC156_1 Pin=L6-2
+Added Pin To Net: NetName=+15V Pin=L7-2
+Added Pin To Net: NetName=GND Pin=U26-2
+Added Pin To Net: NetName=NetC156_1 Pin=U26-3
+Added Pin To Net: NetName=GND Pin=U26-5
+Added Pin To Net: NetName=NetC112_2 Pin=C112-2
+Added Pin To Net: NetName=NetC112_2 Pin=C118-1
+Added Pin To Net: NetName=NetC112_2 Pin=L5-1
+Added Pin To Net: NetName=NetC112_2 Pin=U26-6
+Added Net: Name=NetC112_2
+Added Pin To Net: NetName=NetC123_1 Pin=C123-1
+Added Pin To Net: NetName=NetC123_1 Pin=C155-2
+Added Pin To Net: NetName=NetC123_1 Pin=L7-1
+Added Pin To Net: NetName=NetC123_1 Pin=U26-4
+Added Net: Name=NetC123_1
+Added Member To Class: ClassName=DSP大板子 Member=Component C112 10uF
+Added Member To Class: ClassName=DSP大板子 Member=Component C113 100uF
+Added Member To Class: ClassName=DSP大板子 Member=Component C118 0.1uf
+Added Member To Class: ClassName=DSP大板子 Member=Component C119 0.1uf
+Added Member To Class: ClassName=DSP大板子 Member=Component C120 100uF
+Added Member To Class: ClassName=DSP大板子 Member=Component C123 10uF
+Added Member To Class: ClassName=DSP大板子 Member=Component L6 srn6045ta-4r7m
+Added Member To Class: ClassName=DSP大板子 Member=Component L7 blm31pg121sn1l
+Added Member To Class: ClassName=DSP大板子 Member=Component R8 2.2KΩ
+Added Member To Class: ClassName=DSP大板子 Member=Component R104 100Ω

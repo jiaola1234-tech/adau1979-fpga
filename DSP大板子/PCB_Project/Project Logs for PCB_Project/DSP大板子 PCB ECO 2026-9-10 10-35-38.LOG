@@ -1,0 +1,152 @@
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R165-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R167-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R169-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R171-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R173-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R175-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R177-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R179-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R181-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R183-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R185-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R187-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R189-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R191-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R193-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R196-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R198-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R201-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R203-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R205-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R207-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R209-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R211-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R213-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R215-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R217-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R219-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R221-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R223-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R225-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R227-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R230-1
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R242-2
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R246-2
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R248-2
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R250-2
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R251-2
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R253-2
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R254-2
+Removed Pin From Net: NetName=VBIAS_1V5 Pin=R255-2
+Added Component: Designator=R290(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R291(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R292(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R293(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R294(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R295(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R296(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R297(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R290-2
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R291-2
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R292-2
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R293-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R294-2
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R295-2
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R296-2
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R297-2
+Added Pin To Net: NetName=NetR165_1 Pin=R165-1
+Added Pin To Net: NetName=NetR165_1 Pin=R181-1
+Added Pin To Net: NetName=NetR165_1 Pin=R198-1
+Added Pin To Net: NetName=NetR165_1 Pin=R215-1
+Added Pin To Net: NetName=NetR165_1 Pin=R242-2
+Added Pin To Net: NetName=NetR165_1 Pin=R290-1
+Added Net: Name=NetR165_1
+Added Pin To Net: NetName=NetR167_1 Pin=R167-1
+Added Pin To Net: NetName=NetR167_1 Pin=R183-1
+Added Pin To Net: NetName=NetR167_1 Pin=R201-1
+Added Pin To Net: NetName=NetR167_1 Pin=R217-1
+Added Pin To Net: NetName=NetR167_1 Pin=R246-2
+Added Pin To Net: NetName=NetR167_1 Pin=R291-1
+Added Net: Name=NetR167_1
+Added Pin To Net: NetName=NetR169_1 Pin=R169-1
+Added Pin To Net: NetName=NetR169_1 Pin=R185-1
+Added Pin To Net: NetName=NetR169_1 Pin=R203-1
+Added Pin To Net: NetName=NetR169_1 Pin=R219-1
+Added Pin To Net: NetName=NetR169_1 Pin=R248-2
+Added Pin To Net: NetName=NetR169_1 Pin=R292-1
+Added Net: Name=NetR169_1
+Added Pin To Net: NetName=NetR171_1 Pin=R171-1
+Added Pin To Net: NetName=NetR171_1 Pin=R187-1
+Added Pin To Net: NetName=NetR171_1 Pin=R205-1
+Added Pin To Net: NetName=NetR171_1 Pin=R221-1
+Added Pin To Net: NetName=NetR171_1 Pin=R250-2
+Added Pin To Net: NetName=NetR171_1 Pin=R293-2
+Added Net: Name=NetR171_1
+Added Pin To Net: NetName=NetR173_1 Pin=R173-1
+Added Pin To Net: NetName=NetR173_1 Pin=R189-1
+Added Pin To Net: NetName=NetR173_1 Pin=R207-1
+Added Pin To Net: NetName=NetR173_1 Pin=R223-1
+Added Pin To Net: NetName=NetR173_1 Pin=R251-2
+Added Pin To Net: NetName=NetR173_1 Pin=R294-1
+Added Net: Name=NetR173_1
+Added Pin To Net: NetName=NetR175_1 Pin=R175-1
+Added Pin To Net: NetName=NetR175_1 Pin=R191-1
+Added Pin To Net: NetName=NetR175_1 Pin=R209-1
+Added Pin To Net: NetName=NetR175_1 Pin=R225-1
+Added Pin To Net: NetName=NetR175_1 Pin=R253-2
+Added Pin To Net: NetName=NetR175_1 Pin=R295-1
+Added Net: Name=NetR175_1
+Added Pin To Net: NetName=NetR177_1 Pin=R177-1
+Added Pin To Net: NetName=NetR177_1 Pin=R193-1
+Added Pin To Net: NetName=NetR177_1 Pin=R211-1
+Added Pin To Net: NetName=NetR177_1 Pin=R227-1
+Added Pin To Net: NetName=NetR177_1 Pin=R254-2
+Added Pin To Net: NetName=NetR177_1 Pin=R296-1
+Added Net: Name=NetR177_1
+Added Pin To Net: NetName=NetR179_1 Pin=R179-1
+Added Pin To Net: NetName=NetR179_1 Pin=R196-1
+Added Pin To Net: NetName=NetR179_1 Pin=R213-1
+Added Pin To Net: NetName=NetR179_1 Pin=R230-1
+Added Pin To Net: NetName=NetR179_1 Pin=R255-2
+Added Pin To Net: NetName=NetR179_1 Pin=R297-1
+Added Net: Name=NetR179_1
+Added Member To Class: ClassName=DSP大板子 Member=Component R290 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R291 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R292 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R293 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R294 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R295 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R296 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R297 0Ω/DNP

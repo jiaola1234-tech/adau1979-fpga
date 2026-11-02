@@ -1,0 +1,66 @@
+Protel Design System Design Rule Check
+PCB File : D:\AD\底板开发板\2026底板开发板\后改2025底板线路板图.PcbDoc
+Date     : 2026/7/7
+Time     : 14:30:49
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+   Violation between Clearance Constraint: (0.231mm < 0.254mm) Between Arc (192.975mm,79.384mm) on Keep-Out Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (0.243mm < 0.254mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad USBC1-B1A12(191.707mm,85.484mm) on Top Layer 
+   Violation between Clearance Constraint: (0.244mm < 0.254mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (0.225mm < 0.254mm) Between Pad USBC1-4(192.475mm,77.959mm) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Pad USBC1-B8(191.707mm,80.534mm) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (0.2mm < 0.254mm) Between Region (0 hole(s)) Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (0.246mm < 0.254mm) Between Region (0 hole(s)) Top Layer And Track (190.183mm,79.084mm)(191.707mm,79.084mm) on Top Layer 
+Rule Violations :7
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Pad J26-(81.628mm,129.639mm) on Multi-Layer And Polygon Region (141 hole(s)) POWER Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J26-(81.628mm,129.639mm) on Multi-Layer And Polygon Region (252 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J26-(81.628mm,129.639mm) on Multi-Layer And Polygon Region (283 hole(s)) Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J26-(81.628mm,129.639mm) on Multi-Layer And Polygon Region (429 hole(s)) GND Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J26-(98.028mm,129.639mm) on Multi-Layer And Polygon Region (0 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J26-(98.028mm,129.639mm) on Multi-Layer And Polygon Region (141 hole(s)) POWER Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J26-(98.028mm,129.639mm) on Multi-Layer And Polygon Region (283 hole(s)) Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J26-(98.028mm,129.639mm) on Multi-Layer And Polygon Region (429 hole(s)) GND Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J27-(105.628mm,129.639mm) on Multi-Layer And Polygon Region (141 hole(s)) POWER Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J27-(105.628mm,129.639mm) on Multi-Layer And Polygon Region (252 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J27-(105.628mm,129.639mm) on Multi-Layer And Polygon Region (283 hole(s)) Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J27-(105.628mm,129.639mm) on Multi-Layer And Polygon Region (429 hole(s)) GND Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J27-(122.028mm,129.639mm) on Multi-Layer And Polygon Region (141 hole(s)) POWER Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J27-(122.028mm,129.639mm) on Multi-Layer And Polygon Region (252 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J27-(122.028mm,129.639mm) on Multi-Layer And Polygon Region (283 hole(s)) Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J27-(122.028mm,129.639mm) on Multi-Layer And Polygon Region (429 hole(s)) GND Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J28-(81.628mm,164.139mm) on Multi-Layer And Polygon Region (252 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J28-(81.628mm,164.139mm) on Multi-Layer And Polygon Region (283 hole(s)) Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J28-(81.628mm,164.139mm) on Multi-Layer And Polygon Region (429 hole(s)) GND Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J28-(81.628mm,164.139mm) on Multi-Layer And Polygon Region (61 hole(s)) POWER Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J28-(98.028mm,164.139mm) on Multi-Layer And Polygon Region (252 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J28-(98.028mm,164.139mm) on Multi-Layer And Polygon Region (283 hole(s)) Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J28-(98.028mm,164.139mm) on Multi-Layer And Polygon Region (429 hole(s)) GND Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J28-(98.028mm,164.139mm) on Multi-Layer And Polygon Region (61 hole(s)) POWER Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J29-(105.628mm,164.139mm) on Multi-Layer And Polygon Region (283 hole(s)) Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J29-(105.628mm,164.139mm) on Multi-Layer And Polygon Region (429 hole(s)) GND Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J29-(105.628mm,164.139mm) on Multi-Layer And Polygon Region (5 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J29-(105.628mm,164.139mm) on Multi-Layer And Polygon Region (61 hole(s)) POWER Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J29-(122.028mm,164.139mm) on Multi-Layer And Polygon Region (283 hole(s)) Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J29-(122.028mm,164.139mm) on Multi-Layer And Polygon Region (429 hole(s)) GND Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J29-(122.028mm,164.139mm) on Multi-Layer And Polygon Region (5 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J29-(122.028mm,164.139mm) on Multi-Layer And Polygon Region (61 hole(s)) POWER Location : [X = 0mm][Y = 0mm]
+Rule Violations :32
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.508mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+
+Violations Detected : 39
+Waived Violations : 0
+Time Elapsed        : 00:00:00

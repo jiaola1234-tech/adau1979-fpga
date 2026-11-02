@@ -1,0 +1,651 @@
+Removed Pin From Net: NetName=OUT1_P Pin=R13-1
+Removed Pin From Net: NetName=OUT2_P Pin=R29-1
+Removed Pin From Net: NetName=OUT3_P Pin=R43-1
+Removed Pin From Net: NetName=OUT4_P Pin=R52-1
+Removed Pin From Net: NetName=OUT5_P Pin=R60-1
+Removed Pin From Net: NetName=OUT6_P Pin=R69-1
+Removed Pin From Net: NetName=OUT7_P Pin=R77-1
+Removed Pin From Net: NetName=OUT8_P Pin=R95-1
+Added Component: Designator=C3(C1210)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/FS32X106K101EGG/5791227.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "C1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10uF ±10% 100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PSA(信昌电陶)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "833068e7fe044595a6eec77c56179455"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "C1210_L3.2-W2.5-H2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "125.984,98.425,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C5156756"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C1210)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/FS32X106K101EGG/5791227.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "C1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10uF ±10% 100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PSA(信昌电陶)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "833068e7fe044595a6eec77c56179455"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "C1210_L3.2-W2.5-H2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "125.984,98.425,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C5156756"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C12(C1210)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/FS32X106K101EGG/5791227.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "C1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10uF ±10% 100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PSA(信昌电陶)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "833068e7fe044595a6eec77c56179455"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "C1210_L3.2-W2.5-H2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "125.984,98.425,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C5156756"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C15(C1210)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/FS32X106K101EGG/5791227.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "C1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10uF ±10% 100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PSA(信昌电陶)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "833068e7fe044595a6eec77c56179455"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "C1210_L3.2-W2.5-H2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "125.984,98.425,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C5156756"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C20(C1210)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/FS32X106K101EGG/5791227.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "C1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10uF ±10% 100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PSA(信昌电陶)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "833068e7fe044595a6eec77c56179455"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "C1210_L3.2-W2.5-H2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "125.984,98.425,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C5156756"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C25(C1210)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/FS32X106K101EGG/5791227.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "C1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10uF ±10% 100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PSA(信昌电陶)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "833068e7fe044595a6eec77c56179455"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "C1210_L3.2-W2.5-H2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "125.984,98.425,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C5156756"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C33(C1210)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/FS32X106K101EGG/5791227.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "C1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10uF ±10% 100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PSA(信昌电陶)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "833068e7fe044595a6eec77c56179455"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "C1210_L3.2-W2.5-H2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "125.984,98.425,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C5156756"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C37(C1210)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/FS32X106K101EGG/5791227.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "C1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10uF ±10% 100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PSA(信昌电陶)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "833068e7fe044595a6eec77c56179455"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "C1210_L3.2-W2.5-H2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "125.984,98.425,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C5156756"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C41(C1210)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/FS32X106K101EGG/5791227.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "C1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10uF ±10% 100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PSA(信昌电陶)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "833068e7fe044595a6eec77c56179455"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "C1210_L3.2-W2.5-H2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "125.984,98.425,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C5156756"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C44(C1210)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/FS32X106K101EGG/5791227.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "C1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10uF ±10% 100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PSA(信昌电陶)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "833068e7fe044595a6eec77c56179455"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "C1210_L3.2-W2.5-H2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "125.984,98.425,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C5156756"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C47(C1210)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/FS32X106K101EGG/5791227.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "C1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10uF ±10% 100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PSA(信昌电陶)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "833068e7fe044595a6eec77c56179455"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "C1210_L3.2-W2.5-H2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "125.984,98.425,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C5156756"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C48(C1210)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/FS32X106K101EGG/5791227.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "C1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10uF ±10% 100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PSA(信昌电陶)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "833068e7fe044595a6eec77c56179455"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "C1210_L3.2-W2.5-H2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "125.984,98.425,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C5156756"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C53(C1210)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/FS32X106K101EGG/5791227.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "C1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10uF ±10% 100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PSA(信昌电陶)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "833068e7fe044595a6eec77c56179455"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "C1210_L3.2-W2.5-H2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "125.984,98.425,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C5156756"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C59(C1210)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/FS32X106K101EGG/5791227.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "C1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10uF ±10% 100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PSA(信昌电陶)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "833068e7fe044595a6eec77c56179455"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "C1210_L3.2-W2.5-H2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "125.984,98.425,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C5156756"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C67(C1210)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/FS32X106K101EGG/5791227.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "C1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10uF ±10% 100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PSA(信昌电陶)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "833068e7fe044595a6eec77c56179455"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "C1210_L3.2-W2.5-H2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "125.984,98.425,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C5156756"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C70(C1210)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/FS32X106K101EGG/5791227.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "C1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10uF ±10% 100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PSA(信昌电陶)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "833068e7fe044595a6eec77c56179455"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "C1210_L3.2-W2.5-H2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "125.984,98.425,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C5156756"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FS32X106K101EGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=R120(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R123(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R133(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R134(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R135(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R139(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R140(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R141(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R145(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R229(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R232(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R235(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R236(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R237(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R238(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R239(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R242(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R246(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R248(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R250(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R251(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R253(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R254(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R255(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R257(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R275(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R276(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R277(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R278(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R279(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R280(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R281(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBIAS_1V5 Pin=C3-1
+Added Pin To Net: NetName=OUT1_P Pin=C6-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=C12-1
+Added Pin To Net: NetName=OUT2_P Pin=C15-2
+Added Pin To Net: NetName=VBIAS_1V5 Pin=C20-1
+Added Pin To Net: NetName=OUT3_P Pin=C25-2
+Added Pin To Net: NetName=VBIAS_1V5 Pin=C33-1
+Added Pin To Net: NetName=OUT4_P Pin=C37-2
+Added Pin To Net: NetName=VBIAS_1V5 Pin=C41-1
+Added Pin To Net: NetName=OUT5_P Pin=C44-2
+Added Pin To Net: NetName=VBIAS_1V5 Pin=C47-1
+Added Pin To Net: NetName=OUT6_P Pin=C48-2
+Added Pin To Net: NetName=VBIAS_1V5 Pin=C53-1
+Added Pin To Net: NetName=OUT7_P Pin=C59-2
+Added Pin To Net: NetName=VBIAS_1V5 Pin=C67-1
+Added Pin To Net: NetName=OUT8_P Pin=C70-2
+Added Pin To Net: NetName=GND Pin=R120-1
+Added Pin To Net: NetName=GND Pin=R123-1
+Added Pin To Net: NetName=GND Pin=R133-1
+Added Pin To Net: NetName=GND Pin=R134-1
+Added Pin To Net: NetName=GND Pin=R135-1
+Added Pin To Net: NetName=GND Pin=R139-1
+Added Pin To Net: NetName=GND Pin=R140-1
+Added Pin To Net: NetName=GND Pin=R141-1
+Added Pin To Net: NetName=GND Pin=R145-1
+Added Pin To Net: NetName=GND Pin=R229-1
+Added Pin To Net: NetName=NetR154_2 Pin=R229-2
+Added Pin To Net: NetName=GND Pin=R232-1
+Added Pin To Net: NetName=NetR156_2 Pin=R232-2
+Added Pin To Net: NetName=GND Pin=R235-1
+Added Pin To Net: NetName=NetR151_2 Pin=R235-2
+Added Pin To Net: NetName=GND Pin=R236-1
+Added Pin To Net: NetName=NetR161_2 Pin=R236-2
+Added Pin To Net: NetName=GND Pin=R237-1
+Added Pin To Net: NetName=NetR159_2 Pin=R237-2
+Added Pin To Net: NetName=GND Pin=R238-1
+Added Pin To Net: NetName=NetR162_2 Pin=R238-2
+Added Pin To Net: NetName=GND Pin=R239-1
+Added Pin To Net: NetName=NetR164_2 Pin=R239-2
+Added Pin To Net: NetName=GND Pin=R242-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R242-2
+Added Pin To Net: NetName=GND Pin=R246-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R246-2
+Added Pin To Net: NetName=GND Pin=R248-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R248-2
+Added Pin To Net: NetName=GND Pin=R250-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R250-2
+Added Pin To Net: NetName=GND Pin=R251-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R251-2
+Added Pin To Net: NetName=GND Pin=R253-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R253-2
+Added Pin To Net: NetName=GND Pin=R254-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R254-2
+Added Pin To Net: NetName=GND Pin=R255-1
+Added Pin To Net: NetName=VBIAS_1V5 Pin=R255-2
+Added Pin To Net: NetName=GND Pin=R257-1
+Added Pin To Net: NetName=ADIN6 Pin=R257-2
+Added Pin To Net: NetName=GND Pin=R275-1
+Added Pin To Net: NetName=ADIN5 Pin=R275-2
+Added Pin To Net: NetName=GND Pin=R276-1
+Added Pin To Net: NetName=ADIN7 Pin=R276-2
+Added Pin To Net: NetName=GND Pin=R277-1
+Added Pin To Net: NetName=ADIN8 Pin=R277-2
+Added Pin To Net: NetName=GND Pin=R278-1
+Added Pin To Net: NetName=ADIN2 Pin=R278-2
+Added Pin To Net: NetName=GND Pin=R279-1
+Added Pin To Net: NetName=ADIN3 Pin=R279-2
+Added Pin To Net: NetName=GND Pin=R280-1
+Added Pin To Net: NetName=ADIN4 Pin=R280-2
+Added Pin To Net: NetName=GND Pin=R281-1
+Added Pin To Net: NetName=ADIN1 Pin=R281-2
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=R120-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=R13-1
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=R123-2
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=NetC15_1 Pin=R29-1
+Added Net: Name=NetC15_1
+Added Pin To Net: NetName=NetC20_2 Pin=C20-2
+Added Pin To Net: NetName=NetC20_2 Pin=R133-2
+Added Net: Name=NetC20_2
+Added Pin To Net: NetName=NetC25_1 Pin=C25-1
+Added Pin To Net: NetName=NetC25_1 Pin=R43-1
+Added Net: Name=NetC25_1
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=R134-2
+Added Net: Name=NetC33_2
+Added Pin To Net: NetName=NetC37_1 Pin=C37-1
+Added Pin To Net: NetName=NetC37_1 Pin=R52-1
+Added Net: Name=NetC37_1
+Added Pin To Net: NetName=NetC41_2 Pin=C41-2
+Added Pin To Net: NetName=NetC41_2 Pin=R135-2
+Added Net: Name=NetC41_2
+Added Pin To Net: NetName=NetC44_1 Pin=C44-1
+Added Pin To Net: NetName=NetC44_1 Pin=R60-1
+Added Net: Name=NetC44_1
+Added Pin To Net: NetName=NetC47_2 Pin=C47-2
+Added Pin To Net: NetName=NetC47_2 Pin=R139-2
+Added Net: Name=NetC47_2
+Added Pin To Net: NetName=NetC48_1 Pin=C48-1
+Added Pin To Net: NetName=NetC48_1 Pin=R69-1
+Added Net: Name=NetC48_1
+Added Pin To Net: NetName=NetC53_2 Pin=C53-2
+Added Pin To Net: NetName=NetC53_2 Pin=R140-2
+Added Net: Name=NetC53_2
+Added Pin To Net: NetName=NetC59_1 Pin=C59-1
+Added Pin To Net: NetName=NetC59_1 Pin=R77-1
+Added Net: Name=NetC59_1
+Added Pin To Net: NetName=NetC67_2 Pin=C67-2
+Added Pin To Net: NetName=NetC67_2 Pin=R141-2
+Added Net: Name=NetC67_2
+Added Pin To Net: NetName=NetC70_1 Pin=C70-1
+Added Pin To Net: NetName=NetC70_1 Pin=R95-1
+Added Net: Name=NetC70_1
+Added Pin To Net: NetName=NetR145_2 Pin=R145-2
+Added Pin To Net: NetName=NetR145_2 Pin=R149-2
+Added Pin To Net: NetName=NetR145_2 Pin=U16-5
+Added Net: Name=NetR145_2
+Added Member To Class: ClassName=DSP大板子 Member=Component C3 10uF
+Added Member To Class: ClassName=DSP大板子 Member=Component C6 10uF/0Ω
+Added Member To Class: ClassName=DSP大板子 Member=Component C12 10uF
+Added Member To Class: ClassName=DSP大板子 Member=Component C15 10uF/0Ω
+Added Member To Class: ClassName=DSP大板子 Member=Component C20 10uF
+Added Member To Class: ClassName=DSP大板子 Member=Component C25 10uF/0Ω
+Added Member To Class: ClassName=DSP大板子 Member=Component C33 10uF
+Added Member To Class: ClassName=DSP大板子 Member=Component C37 10uF/0Ω
+Added Member To Class: ClassName=DSP大板子 Member=Component C41 10uF
+Added Member To Class: ClassName=DSP大板子 Member=Component C44 10uF/0Ω
+Added Member To Class: ClassName=DSP大板子 Member=Component C47 10uF
+Added Member To Class: ClassName=DSP大板子 Member=Component C48 10uF/0Ω
+Added Member To Class: ClassName=DSP大板子 Member=Component C53 10uF
+Added Member To Class: ClassName=DSP大板子 Member=Component C59 10uF/0Ω
+Added Member To Class: ClassName=DSP大板子 Member=Component C67 10uF
+Added Member To Class: ClassName=DSP大板子 Member=Component C70 10uF/0Ω
+Added Member To Class: ClassName=DSP大板子 Member=Component R120 NC
+Added Member To Class: ClassName=DSP大板子 Member=Component R123 NC
+Added Member To Class: ClassName=DSP大板子 Member=Component R133 NC
+Added Member To Class: ClassName=DSP大板子 Member=Component R134 NC
+Added Member To Class: ClassName=DSP大板子 Member=Component R135 NC
+Added Member To Class: ClassName=DSP大板子 Member=Component R139 NC
+Added Member To Class: ClassName=DSP大板子 Member=Component R140 NC
+Added Member To Class: ClassName=DSP大板子 Member=Component R141 NC
+Added Member To Class: ClassName=DSP大板子 Member=Component R145 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R229 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R232 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R235 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R236 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R237 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R238 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R239 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R242 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R246 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R248 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R250 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R251 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R253 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R254 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R255 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R257 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R275 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R276 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R277 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R278 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R279 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R280 0Ω/DNP
+Added Member To Class: ClassName=DSP大板子 Member=Component R281 0Ω/DNP

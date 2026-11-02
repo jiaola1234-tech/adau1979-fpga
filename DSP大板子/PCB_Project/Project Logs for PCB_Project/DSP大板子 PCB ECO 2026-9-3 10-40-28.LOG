@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=TXCAN_1 Pin=U6-1
+Removed Pin From Net: NetName=RXCAN_1 Pin=U6-4
+Removed Pin From Net: NetName=TXCAN Pin=U9-1
+Removed Pin From Net: NetName=RXCAN Pin=U9-2
+Added Pin To Net: NetName=TXCAN Pin=U6-1
+Added Pin To Net: NetName=RXCAN Pin=U6-4
+Added Pin To Net: NetName=TXCAN_1 Pin=U9-1
+Added Pin To Net: NetName=RXCAN_1 Pin=U9-2

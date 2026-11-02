@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=IOVDD Pin=C4-2
+Added Pin To Net: NetName=IOVDD Pin=C4-1
+Added Pin To Net: NetName=OUT1_N Pin=C4-2
+Added Pin To Net: NetName=IOVDD Pin=U1-4
